@@ -28,7 +28,11 @@
 * http://www.oracle.com/events/us/en/java8/index.html
 * https://dzone.com/articles/understanding-jvm-internals
 
+### 5. Scala
+* http://docs.scala-lang.org/tour/tour-of-scala.html
+* https://www.scala-exercises.org/
 
-### 5. JavaScript
+
+### 6. JavaScript
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 * https://leanpub.com/understandinges6/read/
