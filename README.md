@@ -5,7 +5,7 @@
 * [Rest API Specification](http://jsonapi.org/)
 * [HTTP semantics and content](https://tools.ietf.org/html/rfc7231#section-4.2) - IETF Reference
 * [Rest & JSON API Design](https://www.youtube.com/watch?v=hdSrT4yjS1g&t=3398s) - Video
-
+* [Building Microservices - Sam Newman] (https://www.amazon.in/Building-Microservices-Sam-Newman/dp/1491950358)
 
 
 ### 2. Scalability 
@@ -36,3 +36,7 @@
 ### 6. JavaScript
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 * https://leanpub.com/understandinges6/read/
+
+
+### 7. Programming light reads
+*  [Pragmatic programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
